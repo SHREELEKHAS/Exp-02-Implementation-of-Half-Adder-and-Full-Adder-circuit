@@ -80,7 +80,7 @@ endmodule
 #### HALF ADDER:
 ![output](/HalfAdder/Screenshot%202023-11-26%20193442.png)
 #### FULL ADDER:
-![output](/full%20adder/Screenshot%202023-11-26%20194240.png)
+![output](/full%20adder/Screenshot%202023-11-26%20200403.png)
 ## RTL realization:
 
 #### HALF ADDER:
